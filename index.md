@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hi this is nbone0925's blog.
 
-![Image of fast.ai logo](images/logo.png)
+你好，这是 @nbone0925的 播客
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+My weibo / 我的微博 https://weibo.com/nbone0925?is_all=1
