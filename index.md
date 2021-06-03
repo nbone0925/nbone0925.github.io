@@ -1,5 +1,3 @@
-Hi this is nbone0925's blog.
+Hi this is MeetLin's blog.
 
-你好，这是 @nbone0925的 播客
-
-My weibo / 我的微博 https://weibo.com/nbone0925?is_all=1
+你好，这是 MeetLin 的github博客。
